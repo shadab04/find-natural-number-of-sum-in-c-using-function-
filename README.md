@@ -1,0 +1,1 @@
+# find-natural-number-of-sum-in-c-using-function-
